@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there :wave:
+
+I'm a data nerd studying in Maastricht, Netherlands.
+
+Enjoy your cup of :coffee:
 
 <!--
 **arthurhaas/arthurhaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
