@@ -1,8 +1,8 @@
 ### Hi there :wave:
 
-I'm a data nerd studying in Maastricht, Netherlands.
+I am a data nerd enjoying a cup of coffee :coffee:
 
-Enjoy your cup of :coffee:
+Visit me: [arthurhaas.github.io](https://arthurhaas.github.io)
 
 <!--
 **arthurhaas/arthurhaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
